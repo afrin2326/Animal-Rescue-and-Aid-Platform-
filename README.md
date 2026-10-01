@@ -3,17 +3,10 @@
 ## 1. Project Overview
 The **Animal Rescue and Aid Platform** is a comprehensive software solution designed to bridge the gap between stray/injured animals, rescuers, veterinarians, volunteers, and adopters. It integrates AI-driven injury assessment, geolocation-based veterinary services, real-time tracking, donation crowdfunding, and an adoption portal.
 
-## 2. Project Team & Contributions
-- **Mohammed Mostafa** (22-47170-1): Project Planning, Research and Analysis
-- **Sharmin Akhter Samia** (22-46441-1): Comparison with existing platforms, References
-- **Md. Mahfuzur Rahman** (22-47078-1): Background to the problem, Challenges
-- **Nowshin Fariha** (22-47074-1): Categorizing our idea, Solution to the problem
-- **Abdullah Al Noman** (22-47155-1): Documentation Preparation, Strategy Development
-- **Afrin Binte Amin** (22-47146-1): Implementation Strategy, Resource Allocation
 
 ---
 
-## 3. Estimation & Software Metrics
+## 2. Estimation & Software Metrics
 Based on project estimation calculations:
 - **Expected lines of code (LOC):** $6000 = 6 \text{ KLOC}$
 - **Effort Calculation (COCOMO / Custom Formula):**
@@ -25,7 +18,7 @@ Based on project estimation calculations:
 
 ---
 
-## 4. Project Risk Management Table
+## 3. Project Risk Management Table
 
 | Risks | Category | Probability | Impact | RMMM / Mitigation |
 | :--- | :---: | :---: | :---: | :--- |
@@ -48,7 +41,7 @@ Based on project estimation calculations:
 
 ---
 
-## 5. Key Test Cases Summary
+## 4. Key Test Cases Summary
 
 - **FR_1 (User Registration):** Verify registration with valid name, email, and password. (Priority: High)
 - **FR_2 (Login Functionality):** Verify login redirect for registered users. (Priority: High)
@@ -61,6 +54,6 @@ Based on project estimation calculations:
 
 ---
 
-## 6. Software Development Life Cycle (SDLC)
+## 5. Software Development Life Cycle (SDLC)
 - **Model Selected:** **Scrum (Agile)**
 - **Justification:** Ideal for dynamic requirements, small teams (4-6 members), iterative progress, and regular stakeholder feedback loops compared to rigid models like Waterfall.
